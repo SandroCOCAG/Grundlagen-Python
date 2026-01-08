@@ -1,1 +1,1 @@
-print ("Was ist dein Name?")
+type( print ("Was ist dein Name?"))
