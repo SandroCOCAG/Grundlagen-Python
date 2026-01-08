@@ -11,4 +11,4 @@ b = Apfel
 c = Orange
 d = Kirsche
 
-x & z & y = Banane
+x = z = y = Banane
